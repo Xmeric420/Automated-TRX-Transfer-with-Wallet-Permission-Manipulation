@@ -8,8 +8,8 @@ client = Tron()
 
 # 输入A钱包公钥和B钱包公钥、私钥
 print (f"Tron链骗取gas自动转TRX程序")
+print (f"赞助(Tron链)TUEvQhBgy7WQujayBbKgRc2c7PPW7hvXbs")
 print (f"")
-print (f"手续费默认最优，我转的时候是0.286个TRX")
 print (f"")
 print (f"")
 wallet_address_a = input("请输入A钱包公钥(没有权限转账的钱包)：")
