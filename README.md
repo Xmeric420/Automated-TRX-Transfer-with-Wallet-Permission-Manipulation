@@ -38,7 +38,7 @@ This is a Python script created for educational and demonstrational purposes onl
 
 打开cmd输入"pip install tronpy"回车
 
-打开"py"后缀的文件
+下载这个库，打开"py"后缀的文件
 
 -------------------------------------
 
